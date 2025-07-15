@@ -25,9 +25,9 @@ const corsOptions = {
     'http://localhost:5175',
     'http://localhost:5176',
     // Add your Render frontend URLs here after deployment
-    'https://your-clientside-app.onrender.com',
-    'https://your-admin-app.onrender.com',
-    'https://your-medrep-app.onrender.com'
+    'https://doctor-appointment-clientside.onrender.com',
+    'https://doctor-appointment-admin-hcn5.onrender.com',
+    'https://doctor-appointment-medrep.onrender.com'
   ],
   credentials: true,
   optionsSuccessStatus: 200
